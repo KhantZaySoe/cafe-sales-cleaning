@@ -48,3 +48,15 @@ The final output is a cleaned CSV file that is ready for analysis, dashboards, o
 1. Clone the repository:
    ```bash
    git clone https://github.com/KhantZaySoe/cafe-sales-cleaning.git
+   ```
+
+2. Navigate to the project folder:
+   ```bash
+   cd cafe-sales-cleaning
+   ```
+
+ 3. Install required libraries using requirements.txt:
+      ```bash
+       pip install -r requirements.txt
+      ```
+
